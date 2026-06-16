@@ -1,0 +1,6 @@
+{
+  "name": "Tanauan Business Agency",
+  "description": "Professional business management consulting and local business registration services in Tanauan City, Batangas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
